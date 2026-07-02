@@ -126,7 +126,7 @@ Tracks every analytical operation performed by users.
 > Add screenshot here
 
 ```
-screenshots/dashboard.png
+yet to be added
 ```
 
 ---
@@ -136,7 +136,7 @@ screenshots/dashboard.png
 > Add screenshot here
 
 ```
-screenshots/statistics.png
+yet to be added
 ```
 
 ---
@@ -146,7 +146,7 @@ screenshots/statistics.png
 > Add screenshot here
 
 ```
-screenshots/category-summary.png
+yet to be added
 ```
 
 ---
@@ -156,7 +156,7 @@ screenshots/category-summary.png
 > Add screenshot here
 
 ```
-screenshots/trend-analysis.png
+yet to be added
 ```
 
 ---
